@@ -1,5 +1,8 @@
 _repo: Un-Turc-a-Paris-1806-1811-Relation-de-voyage-et-de-mission-de-Mouhib-Effendi-ambassadeur-extr__63151
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63151-h/images/cover.jpg
 creator:
   author:
     agent_name: Bareilles, Bertrand
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52308'
     url: http://www.gutenberg.org/2009/agents/52308
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63151#Un-Turc-a-Paris-1806-1811-Relation-de-voyage-et-de-mission-de-Mouhib-Effendi-ambassadeur-extr_
 gutenberg_issued: '2020-09-08'
 gutenberg_type: Text
 identifiers:
